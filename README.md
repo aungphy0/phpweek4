@@ -1,7 +1,7 @@
 # phpweek4
 # Project 4 - Forgery, Theft, and Hijacking Prevention
 
-Time spent: 48 hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
